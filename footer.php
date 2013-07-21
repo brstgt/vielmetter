@@ -6,8 +6,7 @@
     <div class="footerContainer">
         <div class="footerLeft">© 2013 Vielmetter GbR</div>
         <div class="footerRight">
-            <li><a href="impressum.php">Impressum</a></li>
-            <li><a href="">AGB</a></li>
+            <a href="impressum.php">Impressum</a>
         </div>
     </div>
 </div>
