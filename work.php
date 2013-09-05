@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <h2>Leistungen</h2>
-<ul>
+<ul class="work">
     <li>
         Koordination und Durchführung von Komplettrenovierungen und Umbauten
     </li>
@@ -46,11 +46,11 @@
         (Projekt Management)
     </li>
 </ul>
-
+<div class="clear"></div>
 <a name="maurer"></a>
 
 <h2>Maurerarbeiten</h2>
-<ul>
+<ul class="work">
     <li>
         Schaffung von Öffnungen im nicht tragenden und tragendem Mauerwerk
     </li>
@@ -71,4 +71,6 @@
         inklusive des notwendigen Abbruchs und der fachgerechten Entsorgung von Abbruchmaterialien
     </li>
 </ul>
+<div class="clear"></div>
+
 <?php include 'footer.php'; ?>
