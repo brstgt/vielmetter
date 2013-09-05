@@ -68,7 +68,7 @@
 	</li>
 </ul>
 <p class="we">
-	Wir, die Vielmetter GbR, sind ein Meisterbetrieb rund um das Bauhandwerk mit Schwerpunkt auf Fliesenleger- und
+	Wir, die Vielmetter GbR, sind ein Meisterbetrieb aus Fellbach rund um das Bauhandwerk mit Schwerpunkt auf Fliesenleger- und
 	Maurerarbeiten.
 	Wir sind ein solides, schwäbisches Unternehmen, das sowohl Wert auf Tradition legt als auch auf dem neusten Stand
 	der Technik arbeitet.
