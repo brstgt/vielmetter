@@ -47,6 +47,29 @@
     </li>
 </ul>
 <div class="clear"></div>
+
+<ul class="workThumbs">
+	<li>
+		<img src="gfx/work/thumb1.jpg" /><div>
+			<h3>Fliesenarbeiten</h3>
+			Wassertropfen aus Fliesen
+		</div>
+	</li>
+	<li>
+		<img src="gfx/work/thumb2.jpg" /><div>
+			<h3>Fußbodenheizung</h3>
+			Im Estrich mit niedrigem Aufbau
+		</div>
+	</li>
+	<li>
+		<img src="gfx/work/thumb3.jpg" /><div>
+			<h3>Grundrißänderung</h3>
+			Decksprieße erhalten die Statik
+		</div>
+	</li>
+</ul>
+
+<div class="clear"></div>
 <a name="maurer"></a>
 
 <h2>Maurerarbeiten</h2>
