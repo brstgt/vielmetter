@@ -6,12 +6,12 @@
 <p>
     <b>Vielmetter GbR</b><br>
     Ringstraße 81<br>
-    70374 Fellbach
+    70376 Fellbach
 </p>
 
 <p>
     Tel.: 0711 577 05 56<br>
-    Fax: 0711 577 05 56<br>
+    Fax: 0711 577 05 57<br>
     Mail: <a href="mailto:info@e-vielmetter.de">info@e-vielmetter.de</a>
 </p>
 
