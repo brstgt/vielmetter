@@ -4,7 +4,7 @@
 <div class="footerBlue"></div>
 <div class="footerGrey">
     <div class="footerContainer">
-        <div class="footerLeft">© 2013 Vielmetter GbR</div>
+        <div class="footerLeft">© 2013 Vielmetter GmbH</div>
         <div class="footerRight">
             <a href="impressum.php">Impressum</a>
         </div>

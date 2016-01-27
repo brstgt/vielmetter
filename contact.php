@@ -4,7 +4,7 @@
 <p>So können Sie uns erreichen:</p>
 
 <p>
-    <b>Vielmetter GbR</b><br>
+    <b>Vielmetter GmbH</b><br>
     Ringstraße 81<br>
     70376 Fellbach
 </p>

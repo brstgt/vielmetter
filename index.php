@@ -68,7 +68,7 @@
 	</li>
 </ul>
 <p class="we">
-	Wir, die Vielmetter GbR, sind ein Meisterbetrieb aus Fellbach rund um das Bauhandwerk mit Schwerpunkt auf Fliesenleger- und
+	Wir, die Vielmetter GmbH, sind ein Meisterbetrieb aus Fellbach rund um das Bauhandwerk mit Schwerpunkt auf Fliesenleger- und
 	Maurerarbeiten.
 	Wir sind ein solides, schwäbisches Unternehmen, das sowohl Wert auf Tradition legt als auch auf dem neusten Stand
 	der Technik arbeitet.
@@ -85,8 +85,8 @@ Nach der erfolgreichen Meisterprüfung zum Maurermeister gründet Dominik Rieß 
 Firma.
 In den darauf folgenden Jahren wird die Zusammenarbeit zwischen den beiden immer enger, so dass beide sich 2008
 dazu entschliessen,
-zusammen die Firma Vielmetter GbR zu gründen.
-In den fünf Jahren ihres Bestehens konnte die Vielmetter GbR kontinuierlich aber gesund wachsen, so dass wir
+zusammen die Firma Vielmetter GmbH zu gründen.
+In den fünf Jahren ihres Bestehens konnte die Vielmetter GmbH kontinuierlich aber gesund wachsen, so dass wir
 Jahr für Jahr wertvolle neue Mitarbeiter begrüßen durften.
 Unsere Firma hat ein Gesicht. Machen Sie sich selbst <a href="team.php">ein Bild davon</a>.
 
